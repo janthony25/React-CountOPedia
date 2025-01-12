@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    color: #555;
+    background-color: black;
+}
+
+/* header {
+    display: flex;
+} */
+
+p {
+    font-size: 1.6rem;
+}
+
+header img {
+    width: 5rem;
+}
